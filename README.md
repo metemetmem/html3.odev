@@ -4,6 +4,7 @@ Bu repo içerisinde bir adet README dosyası ve bir adet de index.html dosyası 
 
 ## Installation
 Öncelikle Projeyi kopyalayın.
+
 `git clone https://github.com/metemetmem/html3.odev.git`
 
 ## Usage
